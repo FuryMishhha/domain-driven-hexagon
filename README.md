@@ -12,7 +12,7 @@ Though patterns and principles presented here are **framework/language agnostic*
 
 **Note**: code examples are adapted to TypeScript and mentioned above frameworks so may not fit well for other languages. Also remember that code examples presented here are just examples and must be changed according to project's needs or personal preference.
 
-## Table of Contents12
+## Table of Contents123
 
 - [Architecture](#Architecture)
 
